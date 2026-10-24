@@ -28,7 +28,7 @@ We use GitHub for version control and configuration management of all project do
 
 | Name | Student ID | Role | GitHub username |
 | --- | --- | --- | --- |
-| | | Project Manager | |
-| | | IAM Architect | |
+| MD Shadman Shakib | 66341 | Project Manager | shadmanshakib291105 |
+| Md Motiur Rahman Sijan | 66301 | IAM Architect | sijan66301 |
 | | | Integration and Test Lead | |
 | | | Change, Comms and Configuration Lead | |
