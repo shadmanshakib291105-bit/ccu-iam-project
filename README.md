@@ -30,5 +30,5 @@ We use GitHub for version control and configuration management of all project do
 | --- | --- | --- | --- |
 | MD Shadman Shakib | 66341 | Project Manager | shadmanshakib291105-bit |
 | Md Motiur Rahman Sijan | 66310 | IAM Architect | sijan66310 |
-| | | Integration and Test Lead | |
-| | | Change, Comms and Configuration Lead | |
+|  Mahmudul Mahmudul|68925 | Integration and Test Lead | Marimo-103 |
+| Md Shadman Shakib | 66341 | Change, Comms and Configuration Lead | |
